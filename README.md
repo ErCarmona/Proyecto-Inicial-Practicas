@@ -1,9 +1,9 @@
 # Proyecto-Inicial-Practicas
-markdown# API CRUD de Gestión de Clientes
+# API CRUD de Gestión de Clientes
 
 Sistema completo de gestión de clientes con autenticación JWT, desarrollado con FastAPI, SQLAlchemy y MySQL.
 
-##Características
+## Características
 
 - *Autenticación JWT* - Sistema de login seguro con tokens
 - *CRUD Completo* - Crear, Leer, Actualizar y Eliminar clientes
